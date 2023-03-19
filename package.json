@@ -1,5 +1,5 @@
 {
-  "name": "fenwick-tree",
+  "name": "@raashidanwar/fenwick-tree",
   "version": "1.0.0",
   "description": "A module to use fenwick tree algorithm",
   "main": "index.js",
